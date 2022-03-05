@@ -22,4 +22,4 @@ Challenge Link: [View Here](https://www.frontendmentor.io/challenges/qr-code-com
 
 Live Site Link: [View Here](https://arpanaditya.github.io/QR-Code-Frontend-Mentor)
 
-**Have fun building!** 🚀
+**Do checkout and give feedbacks!** 🚀
